@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo hoge hoge
+echo hoge hoge hoge
